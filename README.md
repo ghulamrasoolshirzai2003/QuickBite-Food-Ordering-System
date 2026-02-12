@@ -38,4 +38,5 @@ The system follows a modular architecture to ensure data integrity and a respons
 ├── README.md            # System documentation
 └── docs/                # System screenshots (orders, receipts)
 ```
-
+👨‍💻 Developer
+**Ghulam Rasool Shirzai** [Portfolio](https://ghulam-portfolio.web.app) | [LinkedIn](https://linkedin.com/in/ghulam-rasool-shirzai-13a6b4387)
